@@ -3,6 +3,19 @@
 ## Overview
 This project analyzes grocery sales data from **BlinkIT**, focusing on consumer preferences and outlet performance. The Power BI dashboard provides key insights into sales trends, outlet efficiency, and customer preferences, enabling data-driven decision-making.
 
+### Problem Statement:
+**"Leveraging Data-Driven Insights to Optimize Grocery Sales and Enhance Consumer Experience"**
+
+The rapid growth of the retail grocery sector has introduced challenges in understanding consumer preferences, optimizing inventory management, and evaluating outlet performance. Retailers like BlinkIT must ensure they meet customer demands while maximizing operational efficiency across diverse outlet types, locations, and sizes.
+
+This project aims to address:
+1. **Identifying High-Performing Categories**: Pinpoint product categories and fat content preferences that drive the majority of sales, enabling targeted marketing and stock management.
+2. **Assessing Outlet Efficiency**: Evaluate the performance of outlets based on size, location, and type to identify which combinations maximize profitability.
+3. **Understanding Sales Trends**: Analyze how outlet establishment year correlates with sales growth to inform future expansion strategies.
+4. **Optimizing Consumer Targeting**: Utilize tier-level sales data to understand urban vs. suburban consumer behaviors and align business strategies accordingly.
+
+---
+
 ### Key Features:
 - **Total Sales Analysis**: Monitor overall sales performance across outlets.
 - **Item Type Insights**: Understand which product categories drive the most sales.
